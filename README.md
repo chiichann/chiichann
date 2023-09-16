@@ -1,4 +1,4 @@
-#### Hi there 👋, I am Cherilyn
+# Hi there 👋, I am Cherilyn
 🌈 Dreaming big in bytes and pixels 🌟
 
 ## The Basics 
@@ -8,7 +8,7 @@
 
 💬 *HTML & CSS, Javascript, C++*
 
-# Connect with Me! 
+## Connect with Me! 
 💌Gmail:  [cherilynmarie.deocampo@wvsu.edu.ph ](mailto:cherilynmarie.deocampo@wvsu.edu.ph)
 
 
